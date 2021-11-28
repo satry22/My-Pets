@@ -2,13 +2,20 @@
 
 Saras Pets is at site to present my four pets, two dogs and two cats.
 My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and whre you can find out more about them.
+Animals are fun creatures, and I love to share all the fun and sometimes not so fun things they are up to.
 
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
 ## Features 
+
+Alba. 
+
+Vida.
+
+Dia.
+
+Amos.
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -105,6 +112,8 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 
 ## Credits 
+
+Main picture Photo by Japheth Mast from Pexels
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
