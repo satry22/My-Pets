@@ -194,9 +194,21 @@ hr {
     background-image: url(../images/birthday3.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: 90%;
+    background-position-y: 80%;
     width: 100%;
     overflow: hidden;
+}
+
+#birthdays div {
+    color: red;
+    background-color: rgba(0, 0, 0, .5);
+    width: 25%;
+    height: 300px;
+    float: left;
+    padding: 50px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
 }
 
 
