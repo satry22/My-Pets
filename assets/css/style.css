@@ -114,6 +114,7 @@ h1, h2 {
 }
 
 #amos {
+    padding-top: 30px;
     width: 25%;
     float: right;
     background-color: rgba(230, 231, 128, 0.9);
@@ -128,9 +129,39 @@ h1, h2 {
 }
 
 #dia {
+    padding-top: 30px;
     width: 25%;
     margin: 0 auto;
     margin-left: 50%;
     background-color: rgba(189, 128, 231, 0.9);
 }
 
+hr {
+    border-top: 1px solid red;
+    width: 75%;
+    margin: 5px;
+}
+
+.heading-left {
+    width: 95%;
+    line-height: 20px;
+    float: right;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+.heading-right {
+    width: 95%;
+    line-height: 20px;
+    float: left;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#welcome {
+    margin-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
