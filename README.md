@@ -123,7 +123,7 @@ Cane Corso Photo by Vlad Chețan from Pexels
 
 Yorkshire terrier Photo by Daria Rem from Pexels
 
-Birthdays Photo by Anna Shvets from Pexels
+Birthdays Photo by David Jakab from Pexels
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 

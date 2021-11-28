@@ -188,6 +188,18 @@ hr {
 
 }
 
+/* birthays */
+
+#birthdays {
+    background-image: url(../images/birthday3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 90%;
+    width: 100%;
+    overflow: hidden;
+}
+
+
 /* footer */
 
 fotter {
