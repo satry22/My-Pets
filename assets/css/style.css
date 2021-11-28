@@ -108,39 +108,34 @@ h1, h2 {
 
 #alba {
     padding-top: 30px;
-    width: 25%;
     float: left;
-    background-color: rgba(223, 153, 211, 0.9);
+    background-color: rgba(223, 153, 211, 0.6);
+    width: 20%;
 }
 
 #amos {
     padding-top: 30px;
-    width: 25%;
     float: right;
     background-color: rgba(230, 231, 128, 0.9);
+    width: 20%;
 }
 
 #vida {
     padding-top: 30px;
-    width: 25%;
-    margin: 0 auto;
-    margin-right: 50%;
     background-color: rgba(160, 223, 153, 0.9);
+    width: 20%;
 }
 
 #dia {
     padding-top: 30px;
-    width: 25%;
-    margin: 0 auto;
-    margin-left: 50%;
     background-color: rgba(189, 128, 231, 0.9);
-    
+    width: 20%;
 }
 
 hr {
     border-top: 1px solid red;
-    width: 75%;
-    margin: 5px;
+    width: 70%;
+    margin: 25px;
 }
 
 .heading-left {
@@ -161,12 +156,32 @@ hr {
     margin-bottom: 50px;
     text-align: center;
 }
-#welcome {
-    margin: 40px 0 40px 20px;
-    font-size: 200%;
+
+.heading-center {
+    width: 95%;
+    line-height: 20px;
+    float: right;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+
+.name-header {
+    text-align: left;
+    margin-left: 30px;
 
 }
 
-h2 {
-    font-weight: bold;
+
+#welcome {
+    margin: 40px 0 40px 20px;
+    font-size: 200%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    
 }
