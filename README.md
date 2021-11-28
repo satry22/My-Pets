@@ -117,9 +117,11 @@ Main Photo by Japheth Mast from Pexels
 
 Black cat Photo by cottonbro from Pexels
 
-Red cat Photo by Ali Khalil from Pexels
+Red cat Photo by Valeria Boltneva from Pexels
 
 Cane Corso Photo by Vlad Chețan from Pexels
+
+Yorkshire terrier Photo by Daria Rem from Pexels
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
