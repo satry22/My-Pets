@@ -25,6 +25,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 300%;
+    margin-left: 40px;
 }
 
 /* navigation links */
@@ -35,7 +36,6 @@ h1, h2 {
 }
 #menu, #logo {
     line-height: 75px;
-
 }
 
 #menu li {
@@ -98,5 +98,39 @@ h1, h2 {
     right: 100px;
 
     position: absolute;
-
 }
+
+/* all pets */
+
+#all-pets {
+    height: 600px;
+}
+
+#alba {
+    padding-top: 30px;
+    width: 25%;
+    float: left;
+    background-color: rgba(223, 153, 211, 0.9);
+}
+
+#amos {
+    width: 25%;
+    float: right;
+    background-color: rgba(230, 231, 128, 0.9);
+}
+
+#vida {
+    padding-top: 30px;
+    width: 25%;
+    margin: 0 auto;
+    margin-right: 50%;
+    background-color: rgba(160, 223, 153, 0.9);
+}
+
+#dia {
+    width: 25%;
+    margin: 0 auto;
+    margin-left: 50%;
+    background-color: rgba(189, 128, 231, 0.9);
+}
+
