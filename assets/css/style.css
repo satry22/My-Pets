@@ -139,7 +139,7 @@ h2 {
 hr {
     border-top: 1px solid red;
     width: 70%;
-    margin: 25px;
+    margin: 5px;
 }
 
 .heading-left {
@@ -186,6 +186,10 @@ hr {
     display: flex;
     justify-content: space-evenly;
 
+}
+
+.profile-img {
+    width: 75%;
 }
 
 /* birthays */
