@@ -116,26 +116,19 @@ h2 {
 }
 
 #alba {
-    background-color: rgba(223, 153, 211, 0.6);
-   
+    background-color: rgb(168, 84, 154);
 }
 
 #amos {
-    
-    background-color: rgba(230, 231, 128, 0.9);
-    
+    background-color: rgb(230, 231, 128);
 }
 
 #vida {
-    
-    background-color: rgba(160, 223, 153, 0.9);
-    
+    background-color: rgb(131, 196, 124);
 }
 
 #dia {
-    
-    background-color: rgb(255, 0, 255, 0.5);
-    
+    background-color: rgb(130, 87, 136);
 }
 
 hr {
@@ -150,6 +143,7 @@ hr {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    text-align: center;
 }
 
 .pet-container img {
@@ -170,12 +164,10 @@ hr {
 .container {
     display: flex;
     justify-content: space-evenly;
-
 }
 
 .profile-img {
     width: 75%;
-    border-bottom: 50px;
 }
 
 /* birthays */
@@ -192,7 +184,7 @@ hr {
 }
 
 #birthdays div {
-    background-color:rgba(255, 255, 255, .2);
+    background-color: rgba(255, 255, 255, .2);
     width: 25%;
     height: 220px;
     float: left;
@@ -212,7 +204,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
