@@ -23,10 +23,10 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="form.html">Sign up</a>
+                    <a href="form.html" class="active">Sign up</a>
                 </li>
                 <li>
-                    <a href="gallery.html" class="active">Gallery</a>
+                    <a href="gallery.html">Gallery</a>
                 </li>
                 <li>
                     <a href="index.html">Home</a>
@@ -35,18 +35,36 @@
         </nav>
     </header>
 
-    <section id="photos">
-        <img src="assets/images/9DA13057-CCDD-4413-A846-DDAEF7B74F82_1_105_c.jpeg" alt="Vida and Amos sleeping next to each other">
-        <img src="assets/images/B251DDDD-7DFC-4666-96CC-499E32339700_1_105_c.jpeg" alt="Amos hanging on his claw boars">
-        <img src="assets/images/C4A06C2D-EAB2-40EF-AB1E-915E862A2CB3_1_105_c.jpeg" alt="Vida in a cute little overall">
-        <img src="assets/images/F1F1B0CC-980C-4A10-9ABD-623B282F20E8_1_105_c.jpeg" alt="Dia biting on a ball">
-        <img src="assets/images/F473A31F-87D2-48F0-8D72-C16F9A33089C_1_105_c.jpeg" alt="Vida sitting on the sofa">
-        <img src="assets/images/FBC53180-9EAE-4405-998C-17A223A8E782_1_105_c.jpeg" alt="Vida looking up, sitting in a park">
-        <img src="assets/images/293C33AC-EA08-45D1-AA8C-CB13204D190F_1_105_c.jpeg" alt="Alba getting a petting under her chin">
-        <img src="assets/images/1F2198D9-B1C8-4444-A72F-881928BF58A8_1_105_c.jpeg" alt="Dia running in a park">
+    <section class="form-section">
+        <form action="./index.html" method="get">
+            <hr>
+            <h2>Sign up for a weekly newsletter from Saras Pets!</h2>
+
+            <label id="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" required><br>
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" required><br>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required><br>
+
+            <p>"I would like to recieve news on:"</p>
+
+            <label id="cats">The cats</label>
+            <input type="radio" name="preference" id="cats"><br>
+
+            <label for="dogs" id="dogs">The dogs</label>
+            <input type="radio" name="preference" id="dogs"><br />
+
+            <label for="both" id="both">Both!</label>
+            <input type="radio" name="preference" id="both">
+
+            <input type="submit" value="Sign me up!">
     </section>
 
     <footer>
+        <hr>
         <ul class="social-networks">
             <li>
                 <a href="https://www.facebook.com/VidatheYorkie" target="_blank" rel="noopener"
