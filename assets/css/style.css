@@ -268,4 +268,8 @@ footer {
     #cover-text {
         left: 0;
     }
+
+    #photos {
+        column-count: 2;
+    }
 }
