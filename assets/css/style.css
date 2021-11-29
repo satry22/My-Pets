@@ -9,7 +9,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    color: black;
+    color: #121619;
     background-color: #8DB4D5;
 }
 
@@ -53,11 +53,11 @@ h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #f00606;
+    border-bottom: 1px solid #121619;
 }
 
 .active {
-    border-bottom: 2px solid #f00606;
+    border-bottom: 2px solid #121619;
 }
 
 /* main image  and cover text */
@@ -112,7 +112,7 @@ h2 {
 }
 
 .profile-img {
-    border: 2px solid red;
+    border: 2px solid #121619;
 }
 
 #alba {
@@ -142,7 +142,7 @@ h2 {
 }
 
 hr {
-    border-top: 1px solid red;
+    border-top: 1px solid #121619;
     width: 100%;
     margin: 5px;
 }
@@ -195,6 +195,7 @@ hr {
 
 .profile-img {
     width: 75%;
+    border-bottom: 50px;
 }
 
 /* birthays */
@@ -206,22 +207,19 @@ hr {
     background-position-y: 80%;
     width: 100%;
     overflow: hidden;
+    color: black;
+    opacity: 0.8;
 }
 
 #birthdays div {
-    color: red;
     background-color:rgba(255, 255, 255, .2);
     width: 25%;
-    height: 300px;
+    height: 220px;
     float: left;
-    padding: 50px 0 0 10px;
+    padding: 60px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid grey;
     box-sizing: border-box;
-}
-
-#birthdays h2 {
-    color: red;
 }
 
 /* footer */
