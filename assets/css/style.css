@@ -112,67 +112,48 @@ h2 {
 
 .profile-img {
     border: 2px solid #121619;
+    width: 75%;
 }
 
 #alba {
-    padding-top: 30px;
-    float: left;
     background-color: rgba(223, 153, 211, 0.6);
-    width: 20%;
+   
 }
 
 #amos {
-    padding-top: 30px;
-    float: right;
+    
     background-color: rgba(230, 231, 128, 0.9);
-    width: 20%;
+    
 }
 
 #vida {
-    padding-top: 30px;
+    
     background-color: rgba(160, 223, 153, 0.9);
-    width: 20%;
+    
 }
 
 #dia {
-    padding-top: 30px;
-    background-color: rgba(189, 128, 231, 0.9);
-    width: 20%;
+    
+    background-color: rgb(255, 0, 255, 0.5);
+    
 }
 
 hr {
     border-top: 1px solid #121619;
     width: 100%;
-    margin: 5px;
 }
 
-.heading-left {
-    width: 95%;
-    line-height: 20px;
-    float: right;
-    clear: both;
-    margin-bottom: 50px;
-    text-align: center;
-
+.pet-container {
+    padding: 30px;
+    box-sizing: border-box;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
-.heading-right {
-    width: 95%;
-    line-height: 20px;
-    float: left;
-    clear: both;
-    margin-bottom: 50px;
-    text-align: center;
-}
-
-.heading-center {
-    width: 95%;
-    line-height: 20px;
-    float: right;
-    clear: both;
-    margin-bottom: 50px;
-    text-align: center;
-
+.pet-container img {
+    margin: 0 auto 20px;
 }
 
 .name-header {
