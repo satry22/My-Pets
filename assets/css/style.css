@@ -242,6 +242,13 @@ footer {
         flex-shrink: 0;
         margin-bottom: 20px;
 	}
+
+    #birthdays > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding-top: 30px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -256,5 +263,9 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    #cover-text {
+        left: 0;
     }
 }
