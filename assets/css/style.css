@@ -139,11 +139,13 @@ hr {
 .pet-container {
     padding: 30px;
     box-sizing: border-box;
-    width: 20%;
+    /* width: 20%; */
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     text-align: center;
+    /* margin: 25px; */
+    flex-basis: 20%;
 }
 
 .pet-container img {
@@ -164,7 +166,8 @@ hr {
 .container {
     display: flex;
     justify-content: space-evenly;
-}
+}  
+
 
 .profile-img {
     width: 75%;
@@ -225,4 +228,28 @@ footer {
 
 #photos > img {
     width: 100%;
+}
+
+  
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+
+    .container {
+        flex-wrap: wrap;
+    }
+
+	.pet-container {
+        flex-basis: 40%;
+        flex-shrink: 0;
+        margin-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+
+	.pet-container {
+        flex-basis: 80%;
+	}
 }
