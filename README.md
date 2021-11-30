@@ -1,11 +1,8 @@
-y# Saras Pets
+# Saras Pets
 
 Saras Pets is at site to present my four pets, two dogs and two cats.
-My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and whre you can find out more about them.
-Animals are fun creatures, and I love to share all the fun and sometimes not so fun things they are up to.
-
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and where you can find out more about them.
+Animals are wonderful creatures, and I love to share all the fun and sometimes not so fun things they are up to.
 
 ## Features 
 

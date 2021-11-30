@@ -78,7 +78,7 @@ h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url('../images/love\ cat.jpeg') no-repeat center center;
+    background: url('../images/love-cat.jpeg') no-repeat center center;
 }
 
 
@@ -206,7 +206,7 @@ footer {
     text-align: center;
 }
 
-.social-networks>li {
+.social-networks > li {
     display: inline;
 }
 
@@ -214,7 +214,9 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #121619;
+    font-size: 200%;
 }
+
 
 /* gallery */
 
@@ -267,6 +269,8 @@ footer {
 
     #cover-text {
         left: 0;
+        width: 90%;
+        padding: 40px 3%;
     }
 
     #photos {
@@ -283,16 +287,18 @@ footer {
 
 #signup {
     margin: 50px;
+    font-size: 175%;
 }
 
 #fname, #lname, #email {
     margin: 10px;
     border: 1px solid #121619;
+    font-size: xx-large;
 }
 
 p {
     margin: 15px;
-    font-size: 120%;
+    font-size: 150%;
 }
 
 input[type=submit] {
@@ -304,4 +310,5 @@ input[type=submit] {
     cursor: pointer;
     margin:  50px;
   }
+  
   
