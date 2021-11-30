@@ -62,9 +62,6 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 ![Thanks](assets/images/screenshot-thankyou.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
 - A page for a contact information and -form.
