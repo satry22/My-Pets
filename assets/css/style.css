@@ -276,3 +276,32 @@ footer {
 
 /* Sign up form */
 
+
+.form-section {
+    text-align: center;
+}
+
+#signup {
+    margin: 50px;
+}
+
+#fname, #lname, #email {
+    margin: 10px;
+    border: 1px solid #121619;
+}
+
+p {
+    margin: 15px;
+    font-size: 120%;
+}
+
+input[type=submit] {
+    background-color: rgb(228, 230, 138);
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin:  50px;
+  }
+  

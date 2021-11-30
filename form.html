@@ -38,27 +38,27 @@
     <section class="form-section">
         <form action="./index.html" method="get">
             <hr>
-            <h2>Sign up for a weekly newsletter from Saras Pets!</h2>
+            <h2 id="signup">Sign up for a weekly newsletter from Saras Pets!</h2>
 
-            <label id="fname">First Name</label>
+            <label for="fname">First Name:</label>
             <input type="text" id="fname" name="first_name" required><br>
 
-            <label for="lname">Last Name</label>
+            <label for="lname">Last Name:</label>
             <input type="text" id="lname" name="last_name" required><br>
 
-            <label for="email">Email Address</label>
+            <label for="email">Email Address:</label>
             <input type="email" id="email" name="email_address" required><br>
 
             <p>"I would like to recieve news on:"</p>
 
             <label id="cats">The cats.</label>
-            <input type="radio" name="preference" id="cats"><br>
+            <input type="radio" name="preference" id="cats">
 
             <label for="dogs" id="dogs">The dogs.</label>
-            <input type="radio" name="preference" id="dogs"><br />
+            <input type="radio" name="preference" id="dogs">
 
             <label for="both" id="both">Both!</label>
-            <input type="radio" name="preference" id="both">
+            <input type="radio" name="preference" id="both"><br>
 
             <input type="submit" value="Sign me up!">
     </section>
