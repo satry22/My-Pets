@@ -1,10 +1,10 @@
 # Saras Pets
 
+![All Devises](assets/images/Screenshot-alldevices.png)
+
 Saras Pets is at site to present my four pets, two dogs and two cats.
 My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and where you can find out more about them.
 Animals are wonderful creatures, and I love to share all the fun and sometimes not so fun things they are up to.
-
-![All Devises](assets/images/Screenshot-alldevices.png)
 
 
 ## Features 
@@ -70,6 +70,7 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 
 - A page for a contact information and -form.
+
 
 ## Testing 
 
