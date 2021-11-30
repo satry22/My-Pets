@@ -11,66 +11,65 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - At the top of all four pages, the fully responsive navigation bar includes links to the Home page, the Gallery and a Sign Up page. It is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Navbar](assets/images/screenshot-header.png)
 
 - __The Header__
 
-  - The main image is a photograph with text overlay to allow the user to learn what the page is about. 
+  - The main image is a photograph with text overlay to allow the user to briefly learn what the page is about. 
   - This section introduces the user to My Pets with an image of a little kitten.
 
 ![Main image](assets/images/Screenshot-mainimage.png)
 
 - __All Pets__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This section present all the four pets. The user will learn a little bit about each personality.
+  - This section will hopefully leave the user to want more.
 
 ![All Pets](assets/images/Screenshot-allpets.png)
 
 - __Birtdays__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to be reminded of when the pets birthdays are.  
 
 ![Birthdays](assets/images/Screenshot-birthdays.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to social media sites for all the pets, viewing through the eyes of one of the dogs. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Social Networks](assets/images/Screenshot-socialnetworks.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with images to see what the newsletter and social media can look like. 
+  - This section is valuable to the user as they will be able to easily identify the types of images posted on social media. 
 
 ![Gallery](assets/images/Screenshot-gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to a weekly newsletter about the pets. The user will be able to choose if they want information on the dogs, the cats or both categories. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](assets/images/Screenshot-signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 - __The Thank You page__
+
+- A thanks is given to the user as a confirmation on their signing up for the newsletter.
 
 ![Thanks](assets/images/screenshot-thankyou.png)
 
-
+For some/all of your features, you may choose to reference the specific project files that implement them.
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
 - A page for a contact information and -form.
-
+- A page with a Facebook update.
+- A blog.
 
 ## Testing 
 
@@ -91,23 +90,23 @@ No bugs unfixed.
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the source section drop-down menu, select the Main Branch
+  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://satry22.github.io/My-Pets/index.html 
 
 
 ## Credits 
 
-
-
-Basic structure inspiration from Love Running project.
+  - Google fonts Quicksand and Open Sans was used on the entire page.
+  - AwesomeFonts provided icons to Social Media Links and Birthdays.
+  - W3School has been used for instruction and ideas for the overall page.
+  - Basic structure inspiration from Love Running project.
+  - Tutorials from The Code Institute.
 
 ### Content 
 
-- Instructions on how to style form on the Sign Up page was taken from ![W3Schools](https://w3schools.com/)
-- Instructions 
-- The icons in the footer were taken from ![Font Awesome](https://fontawesome.com/)
+- All content written by Sara Tryzell.
 
 ### Media
 
