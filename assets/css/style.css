@@ -15,6 +15,15 @@ body {
 
 /* headings and logo */
 
+header { 
+    position: sticky;
+    top: 0;
+    height: 80px;
+    background-color: #8DB4D5;
+    border-bottom: #add4f5 2px solid;
+    z-index: 50;
+}
+
 h1, h2 {
     font-family: Quicksand, sans-serif;
     text-transform: uppercase;
@@ -290,6 +299,10 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 800px) {
+
+    header {
+        height: 110px;
+    }
 
     .pet-container {
         flex-basis: 80%;
