@@ -11,7 +11,22 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 - __Design__
 
   - The design is simplistic and uses contrast colors to display the main content. It has a clear navigation menu and it is easy to go from one page to another.
-  - 
+  - The fonts are easy to read and contribute to a better user experience.
+
+- __Initial Visual Idea__
+  - Wireframes were created in ![Balsamiq Wireframes](https://balsamiq.com/)
+
+
+
+- __User Stories__
+
+- As a user I want to navigate between pages.
+
+- As a user I want be able to view clear images of my pets.
+
+- As a user I want to be able to sign up for a newletter to be caught up on what is new.
+
+- As a user I want the social media links to work.
 
 ## Features 
 
@@ -92,14 +107,18 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   ![Performance](assets/images/docs/Screenshot-performance.png)
 
 ## User Stories Testing
+
 - As a user I want to navigate between pages.
   - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website.
 
-- As a user I want be able to view images of my pets.
+- As a user I want be able to view clear images of my pets.
   - When the user navigates to the Galley page the images of my pets are clearly laid out and visible to the user.
 
 - As a user I want to be able to sign up for a newletter to be caught up on what is new.
   - The Sing Up page is laid out with a from in the center of the page under the Nav Bar. There are radio buttons where the user can choose what animals they prefer, or both.
+
+- As a user I want the social media links to work.
+  - Social media links work and are opened in a new window.
 
 ### Unfixed Bugs
 
