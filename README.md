@@ -21,6 +21,8 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - __User Stories__
 
+- As a user I want to know what the page is about.
+
 - As a user I want to navigate between pages.
 
 - As a user I want be able to view clear images of my pets.
@@ -109,10 +111,16 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 ## User Stories Testing
 
-- As a user I want to navigate between pages.
-  - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website.
+- As a user I want to know what the page is about.
+  - The Title and the cover text of the page shows who I am and what my page is about.
 
-- As a user I want be able to view clear images of my pets.
+  ![title](assets/images/docs/screenshot-title.png) 
+  ![CoverText](assets/images/docs/screenshot-covertext.png)
+
+- As a user I want to navigate between pages.
+  - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website. Navigation is made easy at any par6t of the page, with a navigation bar that follows.
+
+- As a user I want be able to view clear images of the pets.
   - When the user navigates to the Galley page the images of my pets are clearly laid out and visible to the user.
 
 - As a user I want to be able to sign up for a newletter to be caught up on what is new.
