@@ -14,10 +14,10 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   - The fonts are easy to read and contribute to a better user experience.
 
 - __Initial Visual Idea__
-  - Wireframes were created in ![Balsamiq Wireframes](https://balsamiq.com/)
-![Wireframe1](assets/images/docs/wireframe1.png)
-![Wireframe2](assets/images/docs/wireframe2.png)
-![Wireframe3](assets/images/docs/wireframe1.png)
+  - Wireframes were created in [Balsamiq Wireframes](https://balsamiq.com/)
+![Wireframe desk](assets/images/docs/Wireframe1.png)
+![Wireframe iPad](assets/images/docs/wireframe2.png)
+![Wireframe mobile](assets/images/docs/wireframe3.png)
 
 - __User Stories__
 
@@ -149,7 +149,7 @@ The live link can be found here - https://satry22.github.io/My-Pets/index.html
 
 ### Media
 
-- Images taken from ![Pexels](https://pexels.com):
+- Images taken from [Pexels](https://pexels.com):
   Main Photo by Japheth Mast
   Black cat Photo by cottonbro
   Red cat Photo by Valeria Boltneva
