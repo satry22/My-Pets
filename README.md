@@ -1,6 +1,6 @@
 # Saras Pets
 
-![All Devises](assets/images/docs/alldevises.png)
+![All Devices](assets/images/docs/Screenshot-alldevices.png)
 
 Saras Pets is at site to present my four pets, two dogs and two cats.
 My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and where you can find out more about them.
@@ -15,8 +15,9 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - __Initial Visual Idea__
   - Wireframes were created in ![Balsamiq Wireframes](https://balsamiq.com/)
-
-
+![Wireframe1](assets/images/docs/wireframe1.png)
+![Wireframe2](assets/images/docs/wireframe2.png)
+![Wireframe3](assets/images/docs/wireframe1.png)
 
 - __User Stories__
 
