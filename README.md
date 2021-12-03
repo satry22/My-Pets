@@ -146,30 +146,36 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   - The page is easily navigated with a sticky navigation bar, to view content of the page.
 
 - As a user I want to navigate between pages.
-  - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website. Navigation is made easy at any par6t of the page, with a navigation bar that follows.
+  - Navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website. Navigation is made easy at any par6t of the page, with a navigation bar that follows.
 
-- As a user I want be able to view clear images of the pets.
+- As a user I want be able to view images of Saras pets.
   - When the user navigates to the Galley page the images of my pets are clearly laid out and visible to the user.
 
 - As a user I want to be able to sign up for a newletter to be caught up on what is new.
-  - The Sing Up page is laid out with a from in the center of the page under the Nav Bar. There are radio buttons where the user can choose what animals they prefer, or both.
+  - The Sing Up page is laid out with a from in the center of the page under the Nav Bar. The user can fill out name and email address. There are radio buttons where the user can choose what animals they prefer, or both. Once Submit button is clicked, the user will be directed to a Thank You- page for confirmation.
 
 - As a user I want the social media links to work.
   - Social media links work and are opened in a new window.
 
-- As a user I would like to view images of Saras Pets.
-  - Images are displayed in columns on Gallery page.
-
 ### Unfixed Bugs
 
-No bugs unfixed. 
+- No bugs unfixed. 
+
+- I had a issue with my cards staying in a row when I wanted them to go to 2 and then 1 across.
+  The problem was fixed with media queries changing their flex-basis and using wrap.
 
 ## Deployment
+
+- To develope my project i opened repo in gitpod, first with the green button and then reopened the workspace from gitpod.io/workspaces.
+Made changes to files and saved them
+Did a `git add .`
+Did a `git commit -m "message"`
+Did a `git push` to push my work into GitHub.
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Main Branch
-  - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Once the main branch has been selected, the page will be automatically refreshed with a display to indicate the successful deployment. 
 
 The live link can be found here - https://satry22.github.io/My-Pets/index.html 
 
