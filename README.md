@@ -1,6 +1,6 @@
 # Saras Pets
 
-![All Devices](assets/images/docs/Screenshot-alldevices.png)
+![All Devices](Screenshot-alldevices.png)
 
 Saras Pets is at site to present my four pets, two dogs and two cats.
 My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and where you can find out more about them.
@@ -15,9 +15,9 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - __Initial Visual Idea__
   - Wireframes were created in [Balsamiq Wireframes](https://balsamiq.com/)
-![Wireframe desk](assets/images/docs/Wireframe1.png)
-![Wireframe iPad](assets/images/docs/wireframe2.png)
-![Wireframe mobile](assets/images/docs/wireframe3.png)
+![Wireframe desk](docs/Wireframe1.png)
+![Wireframe iPad](docs/wireframe2.png)
+![Wireframe mobile](docs/wireframe3.png)
 
 - __User Stories__
 
@@ -38,53 +38,53 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   - At the top of all four pages, the fully responsive navigation bar includes links to the Home page, the Gallery and a Sign Up page. It is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Navbar](assets/images/docs/screenshot-header.png)
+![Navbar](docs/screenshot-header.png)
 
 - __The Header__
 
   - The main image is a photograph with text overlay to allow the user to briefly learn what the page is about. 
   - This section introduces the user to My Pets with an image of a little kitten.
 
-![Main image](assets/images/docs/Screenshot-mainimage.png)
+![Main image](docs/Screenshot-mainimage.png)
 
 - __All Pets__
 
   - This section present all the four pets. The user will learn a little bit about each personality.
   - This section will hopefully leave the user to want more.
 
-![All Pets](assets/images/docs/Screenshot-allpets.png)
+![All Pets](docs/Screenshot-allpets.png)
 
 - __Birthdays__
 
   - This section will allow the user to be reminded of when the pets birthdays are.  
 
-![Birthdays](assets/images/docs/Screenshot-birthdays.png)
+![Birthdays](docs/Screenshot-birthdays.png)
 
 - __The Footer__ 
 
   - The footer section includes links to social media sites for all the pets, viewing through the eyes of one of the dogs. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Social Networks](assets/images/docs/Screenshot-socialnetworks.png)
+![Social Networks](docs/Screenshot-socialnetworks.png)
 
 - __Gallery__
 
   - The gallery will provide the user with images to see what the newsletter and social media can look like. 
   - This section is valuable to the user as they will be able to easily identify the types of images posted on social media. 
 
-![Gallery](assets/images/docs/Screenshot-gallery.png)
+![Gallery](docs/Screenshot-gallery.png)
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to a weekly newsletter about the pets. The user will be able to choose if they want information on the dogs, the cats or both categories. The user will be asked to submit their full name and email address. 
 
-![Sign Up](assets/images/docs/Screenshot-signup.png)
+![Sign Up](docs/Screenshot-signup.png)
 
 - __The Thank You page__
 
 - A thanks is given to the user as a confirmation on their signing up for the newsletter.
 
-![Thanks](assets/images/docs/screenshot-thankyou.png)
+![Thanks](docs/screenshot-thankyou.png)
 
 ### Features Left to Implement
 
@@ -107,15 +107,15 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
   - Performance tested in Lighthouse:
 
-  ![Performance](assets/images/docs/Screenshot-performance.png)
+  ![Performance](docs/Screenshot-performance.png)
 
 ## User Stories Testing
 
 - As a user I want to know what the page is about.
   - The Title and the cover text of the page shows who I am and what my page is about.
 
-  ![title](assets/images/docs/screenshot-title.png) 
-  ![CoverText](assets/images/docs/screenshot-covertext.png)
+  ![title](docs/screenshot-title.png) 
+  ![CoverText](docs/screenshot-covertext.png)
 
 - As a user I want to navigate between pages.
   - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website. Navigation is made easy at any par6t of the page, with a navigation bar that follows.
