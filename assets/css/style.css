@@ -31,7 +31,7 @@ h1, h2 {
     color: black;
 }
 
-#logo {
+.logo {
     float: left;
     font-size: 300%;
     margin-left: 40px;
@@ -39,28 +39,28 @@ h1, h2 {
 
 /* navigation links */
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 2px;
 }
 
-#menu,
-#logo {
+.menu,
+.logo {
     line-height: 75px;
 }
 
-#menu li {
+.menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid #121619;
 }
 
@@ -70,25 +70,25 @@ h1, h2 {
 
 /* main image  and cover text */
 
-#main-outer {
+.main-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#cover-text,
-#cover-text h2 {
+.cover-text,
+.cover-text h2 {
     color: black;
 }
 
-#main-image {
+.main-image {
     height: 600px;
     width: 100%;
     background: url('../images/love-cat.jpeg') no-repeat center center;
 }
 
-#cover-text {
+.cover-text {
     font-size: 100%;
     font-family: quicksand, sans-serif;
     text-transform: none;
@@ -107,7 +107,7 @@ h1, h2 {
 
 /* all pets */
 
-#all-pets {
+.all-pets {
     height: auto;
     margin-bottom: 50px;
 }
@@ -173,7 +173,7 @@ hr {
 
 /* birthays */
 
-#birthdays {
+.birthdays {
     background-image: url(../images/birthday3.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -184,7 +184,7 @@ hr {
     opacity: 0.8;
 }
 
-#birthdays div {
+.birthdays div {
     background-color: rgba(255, 255, 255, .2);
     width: 25%;
     height: 220px;
@@ -218,14 +218,14 @@ footer {
 
 /* gallery */
 
-#photos {
+.photos {
     clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0;
 }
 
-#photos>img {
+.photos>img {
     width: 100%;
 }
 
