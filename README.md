@@ -1,6 +1,6 @@
 # Saras Pets
 
-![All Devices](Screenshot-alldevices.png)
+![All Devices](docs/Screenshot-alldevices.png)
 
 Saras Pets is at site to present my four pets, two dogs and two cats.
 My friends and family love to follow them via social media, and this site is to give them, and new followers, an idea of who my pets are and where you can find out more about them.
@@ -13,11 +13,12 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   - The design is simplistic and uses contrast colors to display the main content. It has a clear navigation menu and it is easy to go from one page to another.
   - The fonts are easy to read and contribute to a better user experience.
 
-- __Initial Visual Idea__
+- __Visual Idea__
   - Wireframes were created in [Balsamiq Wireframes](https://balsamiq.com/)
 ![Wireframe desk](docs/Wireframe1.png)
 ![Wireframe iPad](docs/wireframe2.png)
 ![Wireframe mobile](docs/wireframe3.png)
+  - The ideas have since grown little by little as project is made.
 
 - __User Stories__
 
@@ -30,6 +31,8 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 - As a user I want to be able to sign up for a newletter to be caught up on what is new.
 
 - As a user I want the social media links to work.
+
+- As a user I would like to view images of Saras Pets.
 
 ## Features 
 
@@ -73,18 +76,24 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   - This section is valuable to the user as they will be able to easily identify the types of images posted on social media. 
 
 ![Gallery](docs/Screenshot-gallery.png)
+![Screenshot](docs/screenshot-gallery1.png)
+![Screenshot](docs/screenshot-gallery2.png)
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to a weekly newsletter about the pets. The user will be able to choose if they want information on the dogs, the cats or both categories. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](docs/Screenshot-signup.png)
+![screenshot](docs/screenshot-signup1.png)
+![screenshot](docs/screenshot-signup2.png)
 
 - __The Thank You page__
 
 - A thanks is given to the user as a confirmation on their signing up for the newsletter.
 
 ![Thanks](docs/screenshot-thankyou.png)
+![screenshot](docs/screenshot-thankyou1.png)
+![screenshot](docs/screenshot-thankyou2.png)
 
 ### Features Left to Implement
 
@@ -117,6 +126,9 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
   ![title](docs/screenshot-title.png) 
   ![CoverText](docs/screenshot-covertext.png)
 
+- As a user I would like to know more about Saras Pets.
+  - The page is easily navigated with a sticky navigation bar, to view content of the page.
+
 - As a user I want to navigate between pages.
   - navigation links are at the top right. The page the user is on is identified by the underlined border on each link as the click through the website. Navigation is made easy at any par6t of the page, with a navigation bar that follows.
 
@@ -128,6 +140,9 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - As a user I want the social media links to work.
   - Social media links work and are opened in a new window.
+
+- As a user I would like to view images of Saras Pets.
+  - Images are displayed in columns on Gallery page.
 
 ### Unfixed Bugs
 
