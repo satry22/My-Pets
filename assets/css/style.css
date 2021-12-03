@@ -290,7 +290,7 @@ input[type=submit] {
         margin-bottom: 20px;
     }
 
-    #birthdays>div {
+    .birthdays>div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -308,7 +308,7 @@ input[type=submit] {
         flex-basis: 80%;
     }
 
-    #menu {
+    .menu {
         clear: left;
         float: left;
         margin-left: 30px;
@@ -316,13 +316,13 @@ input[type=submit] {
         line-height: 25px;
     }
 
-    #cover-text {
+    .cover-text {
         left: 0;
         width: 90%;
         padding: 40px 3%;
     }
 
-    #photos {
+    .photos {
         column-count: 2;
     }
 }

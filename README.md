@@ -99,7 +99,7 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 - A page with contact information.
 - A page with a Facebook update.
-- A blog.
+- A blog, where the user can read about day-to-day happenings with the pets.
 
 ## Technology
 
@@ -118,7 +118,10 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
   ![Performance](docs/Screenshot-performance.png)
 
-## User Stories Testing
+  - Tested for Chrome web browser, Iphone X, Ipad,
+  
+
+### User Stories Testing
 
 - As a user I want to know what the page is about.
   - The Title and the cover text of the page shows who I am and what my page is about.
