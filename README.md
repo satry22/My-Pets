@@ -103,7 +103,15 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
 ## Technology
 
-- Google Chrome was used in creating my project.
+- Used for creating my project:
+  - Google Chrome web browser
+  - GitPod for developing the code
+  - GitHub for deploying the project
+  - HTML code
+  - CSS for styling
+  - FontAwesome web page for icons
+  - Pexels web page for images
+  - DevTools for developing the code
 
 ## Testing
 
@@ -118,7 +126,12 @@ Animals are wonderful creatures, and I love to share all the fun and sometimes n
 
   ![Performance](docs/Screenshot-performance.png)
 
-  - Tested for Chrome web browser, Iphone X, Ipad,
+  - Tested for Iphone X, Ipad, Motorola G4, Galaxy S5, Galaxy Fold, Pixel 2XL.
+  ![Testing](docs/testing1.png)
+  ![Testing](docs/testing2.png)
+  ![Testing](docs/testing3.png)
+
+  - Supported screens: Google Chrome, Safari.
   
 
 ### User Stories Testing
